@@ -1207,6 +1207,7 @@ pupw 拍片
 puqd 排球队
 puqg 排遣
 puqh 排球
+puqj 排期
 puqo 扒窃
 puqq 排气
 puqs 排球赛

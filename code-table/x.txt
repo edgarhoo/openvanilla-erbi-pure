@@ -1336,8 +1336,8 @@ xjlz 项链
 xjm 孝
 xjm, 献媚
 xjm/ 下马
-xjmg 醒目
 xjmg 项目
+xjmg 醒目
 xjmk 下面
 xjmk 醑
 xjmu 西门
@@ -2088,6 +2088,7 @@ xpq 许
 xpq; 心切
 xpqh 心平气和
 xpqj 许
+xpqo 详情
 xpqo 心情
 xpr 谖
 xpr; 心软

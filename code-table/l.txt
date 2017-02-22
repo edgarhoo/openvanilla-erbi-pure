@@ -1211,6 +1211,7 @@ ljto 老头
 ljto 两头
 ljtp 老太婆
 ljtp 鹂
+ljtp 联调
 ljts 聊天室
 ljtt 聊
 ljtt 老太太

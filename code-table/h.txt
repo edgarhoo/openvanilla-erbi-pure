@@ -841,6 +841,7 @@ hedk 很大
 hedq 很短
 hedr 很多人
 hedt 很多
+hedy 后端
 hefm 后防
 hefy 后方
 heg 徽
